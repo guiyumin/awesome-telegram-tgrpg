@@ -78,6 +78,8 @@ A curated, auto-updated list of 1239 public Telegram channels, groups and bots â
   - [Analytics](#bot-analytics) (11)
   - [Translation](#bot-translate) (10)
   - [Trading Bots](#bot-trading) (9)
+- [Clients](#clients)
+  - [macOS](#clients-macos)
 - [How this list works](#how)
 - [Add or report an entry](#contribute)
 - [License](#license)
@@ -2059,6 +2061,16 @@ A curated, auto-updated list of 1239 public Telegram channels, groups and bots â
 | [Unibot V2 - Elite Dex Trading Bot](https://tgbox.cc/en/detail/unibotsniper_bot/) | â€” | Elevate your trading with Unibot. <sub>`Quant Trading`</sub> |
 
 [All trading bots on TGbox â†’](https://tgbox.cc/en/bot/trading/)
+
+<a id="clients"></a>
+
+## Clients
+
+<a id="clients-macos"></a>
+
+### macOS
+
+- [FinchGram](https://www.finchgram.com) â€” Unofficial open-source Telegram client for macOS, written in Rust with Slint UI. ([Source](https://github.com/FinchGram/FinchGram))
 
 <a id="how"></a>
 
